@@ -1,0 +1,21 @@
+{ 
+  "name": "Mon application PWA", 
+  "short_name" : "Application PWA" , 
+  "description" : "Une application web progressive créée avec Next.js" , 
+  "background_color" : "#ffffff" , 
+  "theme_color" : "#0070f3" , 
+  "start_url": "/",
+  "display" : "standalone" , 
+  "icons" : [ 
+    { 
+      "src": "/img/food/bg1.jpg" , 
+      "sizes" : "192x192" , 
+      "type" : "image/jpg"
+     }, 
+    { 
+      "src": "/img/food/bg1.jpg" , 
+      "sizes" : "512x512" , 
+      "type" : "image/jpg"
+     } 
+  ] 
+}
