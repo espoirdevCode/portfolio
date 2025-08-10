@@ -12,6 +12,8 @@ type Blog = {
     theme?: string
 }
 
+
+
 export default function BlogCard({ title, img, subtitle, datePublier, author, categorie, theme }: Blog) {
     return (
         <Card className=" bg-transparent ">
