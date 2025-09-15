@@ -17,4 +17,16 @@ export const experiences = [
         dateDebut:"2025",
         dateFin:""
     },
+    {
+        title:"travaille à lumin33",
+        description:"J'ai travaillé à Lumin33 une entreprise française basé le Ecommerce",
+        dateDebut:"2025",
+        dateFin:""
+    },
+    {
+        title:"travaille à SebPay",
+        description:"J'ai travaillé à SebPay une entreprise Beninoise",
+        dateDebut:"2025",
+        dateFin:""
+    },
 ]

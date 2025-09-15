@@ -30,6 +30,24 @@ export const projets = [
     },
 
     {
+        linkName: 'makazouIA.com',
+        imgMockup: '/projet/makazouia.mp4',
+        title: "J'ai crée un LLM congolais une IA conversationnel",
+        // subtitle: "multi App2 est la nouvelle  version de multi app, une application destiné à jouer à plusieurs jeux classique en multi joueur simultanement",
+        isVideo: true,
+        stacks: [3, 10, 12, 13, 11, 21, 18],
+
+    },
+    {
+        linkName: 'lowload.online',
+        imgMockup: '/projet/lowload.mp4',
+        title: "J'ai crée lowloads une platforme de gestion financière",
+        // subtitle: "multi App2 est la nouvelle  version de multi app, une application destiné à jouer à plusieurs jeux classique en multi joueur simultanement",
+        isVideo: true,
+        stacks: [0, 1, 2, 8,17],
+
+    },
+    {
         linkName: 'multiapp.com',
         imgMockup: '/projet/multiapp.mp4',
         title: "J'ai crée une app de jeux multi joueur",
